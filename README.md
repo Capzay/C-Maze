@@ -23,7 +23,7 @@ To get started with this project, you can clone this repository to your local ma
 sudo apt install libsdl2-dev
 git clone https://github.com/Capzay/C-Maze.git
 cd C-Maze
-gcc -o main main.c -lgdi32
+gcc -o main main.c -lX11
 ```
 
 ## 📄 License
